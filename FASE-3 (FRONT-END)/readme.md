@@ -11,7 +11,7 @@ Principais termos que são tratados no jogo:
     
     3 - Tubarão: Tanto no mar como no mercado o seu papel é o mesmo: comandar. O tubarão é utilizado para se referir aos grandes players do mercado que têm o poder de ditar     muitos dos rumos da bolsa de valores. Esse tipo de investidor pode se “alimentar” dos acionistas minoritários e, em alguns casos, encurralam os menores para conseguirem lucros maiores. “Esses são os mais difíceis de combater, pois eles querem controlar tudo”, afirma a consultora financeira Eliana Bussinger
    
-    4 - Tubarão: Tanto no mar como no mercado o seu papel é o mesmo: comandar. O tubarão é utilizado para se referir aos grandes players do mercado que têm o poder de ditar     muitos dos rumos da bolsa de valores. Esse tipo de investidor pode se “alimentar” dos acionistas minoritários e, em alguns casos, encurralam os menores para conseguirem lucros maiores. “Esses são os mais difíceis de combater, pois eles querem controlar tudo”, afirma a consultora financeira Eliana Bussinger
+    4 - Baleia: Os grandes investidores a que o termo se refere são instituições como Hedge Funds e Investment Funds. Com sua grande massa de capital, as instituições podem mover o mercado à vontade. É aqui que a metáfora de uma Baleia Bitcoin se encaixa, logo qualquer outro habitante do oceano deve simplesmente sair do caminho, ou será movido com força. Além disso, nenhuma corrente é forte o suficiente para desviar a baleia de seu curso, por isso sua intenção se torna o caminho.
 
 
     5 - Touro: Indica tendência de alta na bolsa (bullish). O termo vem do fato de que quando um touro ataca, ele utiliza seus chifres em um movimento de baixo para cima.
