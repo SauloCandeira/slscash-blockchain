@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="UTF-8"/>
+    <title> HUB - HK</title>
+    <link rel="stylesheet" href="../styles/StyleCard.css">
+    <link rel="stylesheet" href="../styles/StyleContador.css">
+    <link rel="stylesheet" href="../styles/StyleRegress.css">
+    <link rel="stylesheet" href="../styles/StyleHeader.css">
+    <link rel="stylesheet" href="../styles/FooterStyle.css">
+    <script src= "https://kit.fontawesome.com/a076d05399.js"></script>
+    <script src= "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src= "https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.min.js"></script>
+    <script src= "https://cdnjs.cloudflare.com/ajax/libs/Counter-Up/1.0.0/jquery.counterup.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">
+  </head>
+  <body>
+      
+     <header class="cabecalho">
+        <a href="../index.html"><h1 class="logo">HOLDING KAPITAL</h1></a>
+        <button class="btn-menu"><i class="fa fa-bars fa-lg"></i></button>
+        <nav class="menu">
+            <a class="btn-close">X</a>
+            <ul>
+                <li><a href="wallet.html">Wallet</a></li>
+                <li><a href="exchange.html">Exchange</a></li>
+                <li><a href="educacao.html">ClassRoom</a></li>
+                <li><a href="Game.html">Game</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Contador -->
+    <section class="StyleContador">
+      <div class="counter-up">
+        <div class="content">
+            <div class="box">
+                <div class="icon"><i class="fa fa-gift"> </i></div>
+                <div class="counter">40</div>
+                <div class="text">NFT</div>
+            </div>
+            <div class="box">
+                <div class="icon"><i class="fa fa-home"> </i></div>
+                <div class="counter">40</div>
+                <div class="text">PROPERTIES</div>
+            </div>
+            <div class="box">
+                <div class="icon"><i class="fa fa-users"> </i></div>
+                <div class="counter">40</div>
+                <div class="text">MEMBERS</div>
+            </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- MAPA -->
+    <section class="StyleContador">
+      <div class="home-img"> 
+        <div class="video">          
+            <canvas id="game-canvas" width="320" height="480"></canvas>
+            <script src="../scripts/jogo.js"></script>
+        </div>
+      </div>
+    </section>
+    
+    <section class="StyleContador">
+      <div class="counter-up">
+        <div class="content">
+            <div class="timer">
+              <p id="day"></p>
+              <h6>days</h6>
+            </div>
+        
+            <div class="timer">
+              <p id="hour"></p>
+              <h6>hours</h6>
+            </div>
+        
+            <div class="timer">
+              <p id="minute"></p>
+              <h6>minutes</h6>
+            </div>
+            <div class="timer">
+              <p id="second"></p>
+              <h6>seconds</h6>
+            </div>
+        </div>
+      </div>
+    </section>
+    
+    <div id="footerwrap">
+      	<footer class="clearfix"></footer>
+      	<div class="container">
+      		<div class="row">
+      			<div class="col-sm-12 col-lg-12">
+      			<p><img src="../images/logoHK.png" alt=""></p>
+      			<p>IHK</p>
+      			</div>
+
+      		</div><!-- /row -->
+      	</div><!-- /container -->		
+	</div><!-- /footerwrap -->
+    
+
+    <!-- Contador -->
+    <script>
+      $(document).ready(function(){
+          $(".counter").counterUp({
+            delay: 10,
+            time: 1200
+          });
+        });
+    </script>
+
+    <!-- Card Slide -->
+    <script>
+      $(".slider").owlCarousel({
+        loop: true,
+        autoplay: true,
+        autoplayTimeout: 2000, //2000ms = 2s;
+        autoplayHoverPause: true,
+      });
+    </script>
+    
+    <!-- Regressivo -->
+    <script>
+    
+    var countDownDate = new Date("May 1, 2025 00:00:00").getTime();
+    var x = setInterval(function() {
+
+    var now = new Date().getTime();
+    var distance = countDownDate - now;
+
+
+    var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+    var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+    var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+    var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+    
+    document.getElementById("day").innerHTML = days;
+    document.getElementById("hour").innerHTML = hours;
+    document.getElementById("minute").innerHTML = minutes;
+    document.getElementById("second").innerHTML = seconds;
+    });
+
+   </script>
+
+  </body>
+</html>
