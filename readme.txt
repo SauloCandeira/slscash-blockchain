@@ -16,3 +16,8 @@ video aula: https://www.youtube.com/watch?v=iEym7VHoly0
 video aula: https://cryptojobslist.com/blog/how-to-add-ethereum-payments-to-your-site-with-metamask
 Documentação: https://docs.metamask.io/guide/
 
+####################### FASE III - [DRONT-END] #######################
+video aula: https://www.youtube.com/watch?v=iEym7VHoly0
+video aula: https://cryptojobslist.com/blog/how-to-add-ethereum-payments-to-your-site-with-metamask
+Documentação: https://docs.metamask.io/guide/
+
