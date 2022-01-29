@@ -1,18 +1,21 @@
 ### INICIO PLANEJAMENTO 1.0
 <ul>
+  
   <li>
     <b>1.1 - [REQUISITOS] </b>
     <i> Tecnologia: Scrum </i>
   </li>
+  
   <li>
-   1.2 - [METODOLOGIA] 
-   Tecnologia: Scrum
+    <b>1.2 - [METODOLOGIA]  </b>
+    <i> Tecnologia: Scrum </i>
   </li> 
   
   <li>
-    1.3 - [DESIGN] 
-    Tecnologia: Figma
+    <b>1.3 - [DESIGN]   </b>
+    <i> Tecnologia: Figma </i>
   </li>
+  
 </ul>
 
 
