@@ -2,18 +2,18 @@
 <ul>
   
   <li>
-    <b>1.1 - [REQUISITOS] </b>
-    <i> Tecnologia: Scrum </i>
+    <p><b>1.1 - [REQUISITOS] </b></p>
+    <p><i> Tecnologia: Scrum </i></p>
   </li>
   
   <li>
-    <b>1.2 - [METODOLOGIA]  </b>
-    <i> Tecnologia: Scrum </i>
+    <p><b>1.2 - [METODOLOGIA]  </b></p>
+    <p><i> Tecnologia: Scrum </i></p>
   </li> 
   
   <li>
-    <b>1.3 - [DESIGN]   </b>
-    <i> Tecnologia: Figma </i>
+    <p><b>1.3 - [DESIGN]   </b></p>
+    <p><i> Tecnologia: Figma </i></p>
   </li>
   
 </ul>
@@ -23,42 +23,42 @@
 ### DESENVOLVIMENTO 2.0
 <ul>
   <li>
-    <b>2.1 - [SMART CONTRACT]  </b>
-    <i> Tecnologias: Solidity, Ethereum </i>
+    <p><b>2.1 - [SMART CONTRACT]  </b></p>
+    <p><i> Tecnologias: Solidity, Ethereum </i></p>
   </li>
   <li>
-    <b>2.2 - [METAMASK]   </b>
-    <i> Tecnologias: Javascript, web3 </i>
+    <p><b>2.2 - [METAMASK]   </b></p>
+    <p><i> Tecnologias: Javascript, web3 </i></p>
   </li> 
   
   <li>
-    <b>2.3 - [FRONT-END]   </b>
-    <i> Tecnologias: React </i>
+    <p><b>2.3 - [FRONT-END]   </b></p>
+    <p><i> Tecnologias: React </i></p>
   </li>
   
   <li>
-    <b>2.4 - [BACK-END]    </b>
-    <i> Tecnologias: Flask </i>
+    <p><b>2.4 - [BACK-END]    </b></p>
+    <p><i> Tecnologias: Flask </i></p>
   </li>
   
   <li>
-    <b>2.5 - [DATABASE]    </b>
-    <i> Tecnologias: SQLServer </i>
+    <p><b>2.5 - [DATABASE]    </b></p>
+    <p><i> Tecnologias: SQLServer </i></p>
   </li>
   
   <li>
-    <b>2.6 - [MACHINE LEARNING]    </b>
-    <i> Tecnologias: C# </i>
+    <p><b>2.6 - [MACHINE LEARNING]    </b></p>
+    <p><i> Tecnologias: C# </i></p>
   </li>
   
   <li>
-    <b>2.6 - [BUSINESS INTELIGENCE]    </b>
-    <i> Tecnologias: Python </i>
+    <p><b>2.6 - [BUSINESS INTELIGENCE]    </b></p>
+    <p><i> Tecnologias: Python </i></p>
   </li>
     
   <li>
-    <b>2.7 - [BIG DATA]   </b>
-    <i> Tecnologias: Python </i>
+    <p><b>2.7 - [BIG DATA]   </b></p>
+    <p><i> Tecnologias: Python </i></p>
   </li>
   
 </ul>
@@ -67,8 +67,8 @@
 <ul>
   
   <li>
-    <b>3.1 - [BUILD]  </b>
-    <i> Tecnologias: AWS </i>
+    <p><b>3.1 - [BUILD]  </b></p>
+    <p><i> Tecnologias: AWS </i></p>
   </li>
   
 </ul>
