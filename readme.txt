@@ -1,4 +1,5 @@
 ####################### FASE I - [ETHEREUM] #######################
+Tecnologias: Solidity
 video aula: https://www.youtube.com/watch?v=SAi5rYFh7yw&list=PLS5SEs8ZftgVn38FOhXvLc0PoX_0hnJO9
 Documentação: https://web3py.readthedocs.io/en/stable/
 API Ethereum: https://infura.io/
@@ -18,14 +19,15 @@ video aula: https://cryptojobslist.com/blog/how-to-add-ethereum-payments-to-your
 Documentação: https://docs.metamask.io/guide/
 
 ####################### FASE III - [FRONT-END] #######################
+Tecnologias: React
 video aula: https://www.youtube.com/watch?v=iEym7VHoly0
 video aula: https://cryptojobslist.com/blog/how-to-add-ethereum-payments-to-your-site-with-metamask
 Documentação: https://docs.metamask.io/guide/
 
 ####################### FASE IIII - [BACK-END] #######################
-
+Tecnologias: Flask
 
 ####################### FASE IIIII - [MACHINE LEARNING] #######################
-
+Tecnologias: Python
 
 ####################### FASE IIIIII - [BIG DATA] #######################
