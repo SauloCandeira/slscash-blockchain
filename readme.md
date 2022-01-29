@@ -18,29 +18,50 @@
 
 
 ### INICIO DESENVOLVIMENTO 2.0
-### FASE 2.1 - [SMART CONTRACT] 
-Tecnologias: Solidity, Ethereum
+<ul>
+  <li>
+    <b>2.1 - [SMART CONTRACT]  </b>
+    <i> Tecnologias: Solidity, Ethereum </i>
+  </li>
+  <li>
+    <b>2.2 - [METAMASK]   </b>
+    <i> Tecnologias: Javascript, web3 </i>
+  </li> 
+  
+  <li>
+    <b>2.3 - [FRONT-END]   </b>
+    <i> Tecnologias: React </i>
+  </li>
+  
+  <li>
+    <b>2.4 - [BACK-END]    </b>
+    <i> Tecnologias: Flask </i>
+  </li>
+  
+  <li>
+    <b>2.5 - [DATABASE]    </b>
+    <i> Tecnologias: SQLServer </i>
+  </li>
+  
+  <li>
+    <b>2.6 - [MACHINE LEARNING]    </b>
+    <i> Tecnologias: Python </i>
+  </li>
+  
+  <li>
+    <b>2.6 - [MACHINE LEARNING]    </b>
+    <i> Tecnologias: Python </i>
+  </li>
+    
+  <li>
+    <b>2.7 - [BIG DATA]   </b>
+    <i> Tecnologias: Python </i>
+  </li>
+  
+<ul>
 
+   
 
-
-### FASE 2.2 - [METAMASK] 
-Tecnologias: Javascript, web3
-
-
-
-### FASE 2.3 - [FRONT-END] 
-Tecnologias: React
-
-
-
-### FASE 2.4 - [BACK-END] 
-Tecnologias: Flask
-
-### FASE 2.5 - [DATABASE] 
-Tecnologias: SQLServer
-
-### FASE 2.6 - [MACHINE LEARNING] 
-Tecnologias: Python
 
 ### FASE 2.7 - [BIG DATA] 
 
