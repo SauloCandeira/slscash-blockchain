@@ -3,7 +3,7 @@
   
   <li>
     <p><b><code>1.1 - [REQUISITOS] </code></b></p>
-    <p><i> Tecnologia: Scrum </i></p>
+    <p><i> Tecnologia:  </i></p>
   </li>
   
   <li>
