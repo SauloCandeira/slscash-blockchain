@@ -1,10 +1,12 @@
-####################### FASE 01 - [METODOLOGIA] #######################
+####################### FASE 01 - [REQUISITOS] #######################
+
+####################### FASE 02 - [METODOLOGIA] #######################
 Tecnologia: Scrum
 
-####################### FASE 02 - [DESIGN] #######################
+####################### FASE 03 - [DESIGN] #######################
 Tecnologia: Figma
 
-####################### FASE 03 - [SMART CONTRACT] #######################
+####################### FASE 04 - [SMART CONTRACT] #######################
 Tecnologias: Solidity, Ethereum
 
 video aula: https://www.youtube.com/watch?v=SAi5rYFh7yw&list=PLS5SEs8ZftgVn38FOhXvLc0PoX_0hnJO9
@@ -19,27 +21,27 @@ IDE Remix: https://remix.ethereum.org/
 2º - Instalar Ganache
 
 
-####################### FASE 04- [METAMASK] #######################
+####################### FASE 05- [METAMASK] #######################
 Tecnologias: Javascript, web3
 
 video aula: https://www.youtube.com/watch?v=iEym7VHoly0
 video aula: https://cryptojobslist.com/blog/how-to-add-ethereum-payments-to-your-site-with-metamask
 Documentação: https://docs.metamask.io/guide/
 
-####################### FASE 05 - [FRONT-END] #######################
+####################### FASE 06 - [FRONT-END] #######################
 Tecnologias: React
 
 video aula: https://www.youtube.com/watch?v=iEym7VHoly0
 video aula: https://cryptojobslist.com/blog/how-to-add-ethereum-payments-to-your-site-with-metamask
 Documentação: https://docs.metamask.io/guide/
 
-####################### FASE 06 - [BACK-END] #######################
+####################### FASE 07 - [BACK-END] #######################
 Tecnologias: Flask
 
-####################### FASE 06 - [DATABASE] #######################
+####################### FASE 08 - [DATABASE] #######################
 Tecnologias: SQLServer
 
-####################### FASE 07 - [MACHINE LEARNING] #######################
+####################### FASE 09 - [MACHINE LEARNING] #######################
 Tecnologias: Python
 
-####################### FASE 08 - [BIG DATA] #######################
+####################### FASE 10 - [BIG DATA] #######################
