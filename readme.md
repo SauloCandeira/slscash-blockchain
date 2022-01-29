@@ -1,14 +1,14 @@
 ### INICIO PLANEJAMENTO 1.0
 <ul>
-  <li>### FASE 1.1 - [REQUISITOS] </li>
-
+  <li>1.1 - [REQUISITOS] </li>
+   Tecnologia: Scrum
   <li>
-   ### FASE 1.2 - [METODOLOGIA] 
+   1.2 - [METODOLOGIA] 
    Tecnologia: Scrum
   </li> 
   
   <li>
-    ### FASE 1.3 - [DESIGN] 
+    1.3 - [DESIGN] 
     Tecnologia: Figma
   </li>
  <ul>
