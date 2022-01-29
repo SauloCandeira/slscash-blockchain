@@ -4,7 +4,7 @@
   <li>
     <p><b><code>1.1 - [REQUISITOS] </code></b></p>
     <p><i> Tecnologia: Scrum </i></p>
-    <p><progress id="file" value="25" max="100" style="color:#000000"> 25% </progress></p>
+    <p><progress id="file" value="25" max="100" style="color:#000000"> </progress></p>
   </li>
   
   <li>
