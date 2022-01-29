@@ -1,5 +1,12 @@
-####################### FASE I - [ETHEREUM] #######################
-Tecnologias: Solidity
+####################### FASE 01 - [METODOLOGIA] #######################
+Tecnologia: SCRUM
+
+####################### FASE 02 - [DESIGN] #######################
+Tecnologia: FIGMA
+
+####################### FASE 03 - [SMART CONTRACT] #######################
+Tecnologias: Solidity, Ethereum
+
 video aula: https://www.youtube.com/watch?v=SAi5rYFh7yw&list=PLS5SEs8ZftgVn38FOhXvLc0PoX_0hnJO9
 Documentação: https://web3py.readthedocs.io/en/stable/
 API Ethereum: https://infura.io/
@@ -12,22 +19,24 @@ IDE Remix: https://remix.ethereum.org/
 2º - Instalar Ganache
 
 
-####################### FASE II - [METAMASK] #######################
+####################### FASE 04- [METAMASK] #######################
 Tecnologias: Javascript
+
 video aula: https://www.youtube.com/watch?v=iEym7VHoly0
 video aula: https://cryptojobslist.com/blog/how-to-add-ethereum-payments-to-your-site-with-metamask
 Documentação: https://docs.metamask.io/guide/
 
-####################### FASE III - [FRONT-END] #######################
+####################### FASE 05 - [FRONT-END] #######################
 Tecnologias: React
+
 video aula: https://www.youtube.com/watch?v=iEym7VHoly0
 video aula: https://cryptojobslist.com/blog/how-to-add-ethereum-payments-to-your-site-with-metamask
 Documentação: https://docs.metamask.io/guide/
 
-####################### FASE IIII - [BACK-END] #######################
+####################### FASE 06 - [BACK-END] #######################
 Tecnologias: Flask
 
-####################### FASE IIIII - [MACHINE LEARNING] #######################
+####################### FASE 07 - [MACHINE LEARNING] #######################
 Tecnologias: Python
 
-####################### FASE IIIIII - [BIG DATA] #######################
+####################### FASE 08 - [BIG DATA] #######################
