@@ -1,6 +1,6 @@
 ### INICIO PLANEJAMENTO 1.0
 <ul>
-  <li>1.1 - [REQUISITOS] </li>
+  <li><b>1.1 - [REQUISITOS] </b></li>
    Tecnologia: Scrum
   <li>
    1.2 - [METODOLOGIA] 
