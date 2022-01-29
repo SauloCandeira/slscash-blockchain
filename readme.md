@@ -1,4 +1,4 @@
-### INICIO PLANEJAMENTO 1.0
+### PLANEJAMENTO 1.0
 <ul>
   
   <li>
@@ -20,7 +20,7 @@
 
 
 
-### INICIO DESENVOLVIMENTO 2.0
+### DESENVOLVIMENTO 2.0
 <ul>
   <li>
     <b>2.1 - [SMART CONTRACT]  </b>
@@ -61,21 +61,19 @@
     <i> Tecnologias: Python </i>
   </li>
   
+</ul>
+
+### PRODUÇÃO 3.0
 <ul>
-
-   
-
-
-### FASE 2.7 - [BIG DATA] 
-
-### FIM DESENVOLVIMENTO 2.0
-
-### INICIO PRODUÇÃO 3.0
-### FASE 3.1 - [BUILD] 
-Tecnologias: AWS
+  
+  <li>
+    <b>3.1 - [BUILD]  </b>
+    <i> Tecnologias: AWS </i>
+  </li>
+  
+</ul>
 
 
-### FIM PRODUÇÃO  
 
 
 
