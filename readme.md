@@ -1,4 +1,4 @@
-### PLANEJAMENTO 1.0
+# PLANEJAMENTO 1.0
 <ul>
   
   <li>
@@ -7,7 +7,7 @@
   </li>
   
   <li>
-    <p><b>1.2 - [METODOLOGIA]  </b></p>
+    <p><b>'1.2 - [METODOLOGIA]'  </b></p>
     <p><i> Tecnologia: Scrum </i></p>
   </li> 
   
@@ -20,7 +20,7 @@
 
 
 
-### DESENVOLVIMENTO 2.0
+# DESENVOLVIMENTO 2.0
 <ul>
   <li>
     <p><b>2.1 - [SMART CONTRACT]  </b></p>
@@ -63,7 +63,7 @@
   
 </ul>
 
-### PRODUÇÃO 3.0
+# PRODUÇÃO 3.0
 <ul>
   
   <li>
