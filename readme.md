@@ -48,11 +48,11 @@
   
   <li>
     <b>2.6 - [MACHINE LEARNING]    </b>
-    <i> Tecnologias: Python </i>
+    <i> Tecnologias: C# </i>
   </li>
   
   <li>
-    <b>2.6 - [MACHINE LEARNING]    </b>
+    <b>2.6 - [BUSINESS INTELIGENCE]    </b>
     <i> Tecnologias: Python </i>
   </li>
     
