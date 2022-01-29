@@ -8,6 +8,8 @@ Tecnologia: Scrum
 Tecnologia: Figma
 ------------------------- FIM PLANEJAMENTO ------------------------
 
+
+------------------------- INICIO DESENVOLVIMENTO -----------------------
 ####################### FASE 04 - [SMART CONTRACT] #######################
 Tecnologias: Solidity, Ethereum
 
@@ -47,3 +49,8 @@ Tecnologias: SQLServer
 Tecnologias: Python
 
 ####################### FASE 10 - [BIG DATA] #######################
+
+------------------------- FIM DESENVOLVIMENTO -----------------------
+
+
+
