@@ -13,7 +13,7 @@
     1.3 - [DESIGN] 
     Tecnologia: Figma
   </li>
- <ul>
+<ul>
 
 
 
