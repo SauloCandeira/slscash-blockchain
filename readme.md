@@ -1,4 +1,4 @@
-### PLANEJAMENTO 1.0
+### 1.0 - PLANEJAMENTO 
 <ul>
   
   <li>
@@ -20,7 +20,7 @@
 
 
 
-### DESENVOLVIMENTO 2.0
+### 2.0 - DESENVOLVIMENTO 
 <ul>
   <li>
     <p><b><code>2.1 - [SMART CONTRACT]  </code></b></p>
@@ -63,7 +63,7 @@
   
 </ul>
 
-### PRODUÇÃO 3.0
+### 3.0 - PRODUÇÃO
 <ul>
   
   <li>
