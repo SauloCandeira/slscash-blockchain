@@ -1,8 +1,8 @@
 ####################### FASE 01 - [METODOLOGIA] #######################
-Tecnologia: SCRUM
+Tecnologia: Scrum
 
 ####################### FASE 02 - [DESIGN] #######################
-Tecnologia: FIGMA
+Tecnologia: Figma
 
 ####################### FASE 03 - [SMART CONTRACT] #######################
 Tecnologias: Solidity, Ethereum
