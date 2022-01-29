@@ -1,3 +1,4 @@
+------------------------- INICIO PLANEJAMENTO ------------------------
 ####################### FASE 01 - [REQUISITOS] #######################
 
 ####################### FASE 02 - [METODOLOGIA] #######################
@@ -5,6 +6,7 @@ Tecnologia: Scrum
 
 ####################### FASE 03 - [DESIGN] #######################
 Tecnologia: Figma
+------------------------- FIM PLANEJAMENTO ------------------------
 
 ####################### FASE 04 - [SMART CONTRACT] #######################
 Tecnologias: Solidity, Ethereum
