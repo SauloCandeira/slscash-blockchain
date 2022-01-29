@@ -7,7 +7,7 @@
   </li>
   
   <li>
-    <p><b>'1.2 - [METODOLOGIA]'  </b></p>
+    <p><b>``1.2 - [METODOLOGIA]``  </b></p>
     <p><i> Tecnologia: Scrum </i></p>
   </li> 
   
