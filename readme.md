@@ -12,7 +12,7 @@
     Tecnologia: Figma
   </li>
  <ul>
-### FIM PLANEJAMENTO 1.0
+
 
 
 ### INICIO DESENVOLVIMENTO 2.0
