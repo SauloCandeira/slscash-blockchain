@@ -2,8 +2,8 @@
 <ul>
   
   <li>
-    <p><b><code>1.1 - [REQUISITOS] </code></b></p>
-    <p><i> Tecnologia:  </i></p>
+    <p><b><code>1.1 - [REQUISITOS] </code></b>
+    <i> Tecnologia:  </i></p>
   </li>
   
   <li>
